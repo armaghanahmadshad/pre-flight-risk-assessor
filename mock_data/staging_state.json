@@ -1,0 +1,5 @@
+{
+  "environment_variables": ["DB_HOST", "DB_USER", "DB_PASS"],
+  "database_tables": ["users", "transactions", "logs"],
+  "indexes": ["users_email_idx"] 
+}
